@@ -17,3 +17,7 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="NodeJs" align="center">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs" align="center">
 </div>
+
+</br>
+
+Apaixonado por tecnologia, educação e por transformar projetos em realidade através da programação!
