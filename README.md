@@ -3,7 +3,7 @@
 ## Sobre Mim
 
 <p style="margin-top: -15px; font-size: 15px">
-   Sou apaixonado por tecnologia e em transformar projetos em realidade atravéz da programação, adoro novos desafios e estou sempre disposto a aprender coisas novas. Atualmente atuo como Desenvolvedor de Sistemas Junior na Congregação de Nossa Senhora - Notre Dame e estou cursando o 4 Nível de Ciência da Computação na Universidade de Passo Fundo. 
+   Sou apaixonado por tecnologia e em transformar projetos em realidade atravéz da programação, adoro novos desafios e estou sempre disposto a aprender coisas novas. Atualmente atuo como Desenvolvedor de Sistemas Junior na Congregação de Nossa Senhora - Notre Dame e estou cursando o 5 Nível de Ciência da Computação na Universidade de Passo Fundo. 
 </p>
 
 ## Algumas Tecnologias que eu domíno:
