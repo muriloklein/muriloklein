@@ -1,9 +1,9 @@
-### Olá, Tudo bem? 👋🏻</br> Me chamo Murilo Klein </br> E sou Desenvolvedor Full Stack Júnior. </br> 
+### Olá, Tudo bem? 👋🏻</br> Me chamo Murilo Klein </br> E sou Desenvolvedor Full Stack. </br> 
 
 ## Sobre Mim
 
 <p style="margin-top: -15px; font-size: 15px">
-   Sou apaixonado por tecnologia e em transformar projetos em realidade atravéz da programação, adoro novos desafios e estou sempre disposto a aprender coisas novas. Atualmente atuo como Desenvolvedor de Sistemas Junior na Congregação de Nossa Senhora - Notre Dame e estou cursando o 5 Nível de Ciência da Computação na Universidade de Passo Fundo. 
+   Sou apaixonado por tecnologia e em transformar projetos em realidade atravéz da programação, adoro novos desafios e estou sempre disposto a aprender coisas novas. Atualmente atuo como Desenvolvedor de Sistemas II na Congregação de Nossa Senhora - Notre Dame e estou cursando o ultimo Nível de Ciência da Computação na Universidade de Passo Fundo. 
 </p>
 
 ## Algumas Tecnologias que eu domíno:
@@ -37,7 +37,6 @@
 [![Portifólio](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://portfolio-eight-sable-64.vercel.app/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilo.kkleinn@gmail.com)
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-klein/)
 
